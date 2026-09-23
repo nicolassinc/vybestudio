@@ -1,8 +1,0 @@
-{
-  "name": "VYBE Studio - Loja de Produtos Personalizados",
-  "description": "Canecas, camisas, bags e presentes personalizados feitos especialmente para você. Design minimalista, elegante e moderno.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
